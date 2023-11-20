@@ -29,7 +29,7 @@ I can store cookies so that the site remembers where the user left off on the si
 
 Here's a walkthrough of implemented features:
 
-<a href="https://imgur.com/K9nCthQ"><img src="https://i.imgur.com/K9nCthQ.gif" title="source: imgur.com" /></a>
+[Imgur](https://i.imgur.com/K9nCthQ.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
